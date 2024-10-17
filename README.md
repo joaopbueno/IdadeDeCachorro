@@ -5,7 +5,7 @@ Este projeto é um aplicativo iOS que permite calcular a idade de um cachorro em
 ## Tecnologias Utilizadas
 
 - **Linguagem de Programação:** Swift
-- **Plataforma:** iOS 18
+- **Plataforma:** iOS 17.5
 - **IDE:** Xcode
 
 ## Funcionalidades
